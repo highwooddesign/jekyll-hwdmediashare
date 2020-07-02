@@ -18,10 +18,10 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: HWDMediaShare for Joomla
+title: HWD MediaShare for Joomla
 email: webmaster@hwdmediashare.co.uk
 description: >- # this means to ignore newlines until "baseurl:"
-  Joomla video gallery and Joomla photo gallery software development for media apps, including JW Player and Flow Playertion.
+  HWD MediaShare is a community-led, open source media sharing extension for the Joomla CMS, and helps web developers create video galleries on their  websites.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: hwdmediashare
@@ -53,3 +53,5 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+permalink: /:categories/:title/
