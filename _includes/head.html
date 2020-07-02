@@ -3,14 +3,14 @@
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
   <meta name="viewport" content="width=device-width, initial-scale=1">
   {%- seo -%}
-  <!--<link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">-->
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | relative_url }}">
+  <link rel="stylesheet" href="{{ "/assets/css/default.css" | relative_url }}">
   {%- feed_meta -%}
   {%- if jekyll.environment == 'production' and site.google_analytics -%}
     {%- include google-analytics.html -%}
   {%- endif -%}
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
 
-  <!--====== Favicon Icon ======-->
-  <link rel="shortcut icon" href="/assets/images/favicon.png" type="image/png">
       
   <!--====== Animate CSS ======-->
   <link rel="stylesheet" href="/assets/css/animate.css">
@@ -30,10 +30,5 @@
   <!--====== Bootstrap CSS ======-->
   <link rel="stylesheet" href="/assets/css/bootstrap.min.css">
   
-  <!--====== Default CSS ======-->
-  <link rel="stylesheet" href="/assets/css/default.css">
-  
-  <!--====== Style CSS ======-->
-  <link rel="stylesheet" href="/assets/css/style.css">
 
 </head>
