@@ -3,30 +3,10 @@ layout: post
 title:  "PHP 7 Support"
 date:   2016-04-14 20:08:44 +0100
 categories: Docs jekyll update
+image: /assets/images/blog/php7.png
+excerpt_separator: <!--more-->
 ---
-<div class="item-page" itemscope="" itemtype="https://schema.org/Article"><meta itemprop="inLanguage" content="en-GB">
-
-<div class="page-header">
-
-## PHP7 Support
-
-</div>
-
-<dl class="article-info muted">
-
-<dt class="article-info-term">Details</dt>
-
-<dd class="article-meta" itemprop="author" itemscope="" itemtype="http://schema.org/Person">Written by <span itemprop="name">Dave Horsfall</span>, <time datetime="2016-04-14T15:59:55+01:00" itemprop="datePublished">Thursday, 14 April 2016</time></dd>
-
-</dl>
-
-<div class="disqus-count">[1 Comment](/blog/767-php7-support#disqus_thread)</div>
-
-<div class="pull-none item-image">![](/images/site/blog/767/php7.png)</div>
-
-<div itemprop="articleBody">
-
-Joomla 3.5 was released [last week](https://www.joomla.org/announcements/release-news/5654-joomla-3-5-is-here.html). This new version included lots of lovely features, but one which many of our community have asked about is support for PHP7\. Joomla now includes support for the recently released PHP7 scripting language, and the aim of this post if to clarify the support for HWDMediaShare. PHP7 was recently announced with [significant performance improvements](https://www.gavick.com/blog/joomla-php-7-speedtest) and is now available for use by the general public. Joomla can run twice as fast and with half the memory usage on systems that run PHP7, so we understand why people are excited about this major new release of PHP.
+Joomla 3.5 was released [last week](https://www.joomla.org/announcements/release-news/5654-joomla-3-5-is-here.html). This new version included lots of lovely features, but one which many of our community have asked about is support for PHP7.<!--more--> Joomla now includes support for the recently released PHP7 scripting language, and the aim of this post if to clarify the support for HWDMediaShare. PHP7 was recently announced with [significant performance improvements](https://www.gavick.com/blog/joomla-php-7-speedtest) and is now available for use by the general public. Joomla can run twice as fast and with half the memory usage on systems that run PHP7, so we understand why people are excited about this major new release of PHP.
 
 We can now confirm that HWDMediaShare 2.0.5 is compatible with Joomla 3.5 and PHP7.
 

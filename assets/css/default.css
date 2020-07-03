@@ -943,22 +943,20 @@ section#article .container p {
     padding-bottom: 30px;
     line-height: 32px;
 }
-
-section#article .container ol {
-    padding-bottom: 30px;
-    line-height: 32px;
+section#article .container ul li,
+section#article .container ol li { 
+	padding-top: 10px;
 }
+section#article .container ol,
 section#article .container ul { 
-	list-style-type: disc; 
 	margin-left: 30px; 
-	padding-bottom: 30px;
     line-height: 32px;
  }
  section#article .container ol { 
 	list-style-type: decimal; 
-	margin-left: 30px; 
-	padding-bottom: 30px;
-    line-height: 32px;
+ }
+section#article .container ul { 
+	list-style-type: disc; 
  }
  section#article .container li { 
 	padding-left: 10px; 
