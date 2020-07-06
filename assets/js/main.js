@@ -15,9 +15,11 @@ $(function () {
         var scroll = $(window).scrollTop();
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
+            $("#docs-sidebar").removeClass("scrolling");
             $(".navbar .navbar-brand img").attr("src", "/assets/images/logo.svg");
         } else {
             $(".navbar-area").addClass("sticky");
+            $("#docs-sidebar").addClass("scrolling");
             $(".navbar .navbar-brand img").attr("src", "/assets/images/logo-2.svg");
         }
     });
