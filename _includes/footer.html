@@ -21,8 +21,8 @@
             <div class="row">
                 <div class="col-lg-4 col-md-12 col-sm-12">
                     <div class="footer-about mt-50 wow fadeIn" data-wow-duration="1s" data-wow-delay="0.2s">
-                        <a class="logo" href="{{ "/" | relative_url }}">
-                            <img src="assets/images/logo.svg" alt="{{ site.title | escape }}">
+                        <a class="logo" href="{% link index.markdown %}">
+                            <img src="/assets/images/logo.svg" alt="{{ site.title | escape }}">
                         </a>
                         <p class="text">{{- site.description | escape -}}</p>
                         <p class="text">Highwood Design Limited, Design Works, William Street, Felling, NE10 0JP, United Kingdom.</p>
@@ -41,7 +41,8 @@
                                         <li><a href="{% link blog.markdown %}">Blog</a></li>
                                         <li><a href="{% link pages/about.markdown %}">About</a></li>
                                         <li><a href="{% link pages/responsibility.markdown %}">Our Responsibility</a></li>
-                                        <li><a href="{% link pages/resources.markdown %}#">Resources</a></li>
+                                        <li><a href="{% link reviews.markdown %}">Reviews</a></li>
+                                        <li><a href="{% link pages/resources.markdown %}">Resources</a></li>
                                     </ul>
                                 </div>
                             </div>

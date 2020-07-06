@@ -9,7 +9,7 @@ It is our responsibility to provide open, transparent and legal media sharing so
 
 ### Openness 
 
-Accepting feedback through a web page and providing mechanisms for people to report defects is one thing. Allowing everyone else to see that feedback and all those defects is another, much more uncomfortable step for software development companies like HWDMediaShare. However, we are happy to providing a public forum where people can openly criticize and contribute to the design and implementation of the software. This is not necessarily because we are confident there are no defects, it is because we understand openness is important. If the project administrators do not provide mechanisms for people to communicate openly amongst themselves there can be no community.
+Accepting feedback through a web page and providing mechanisms for people to report defects is one thing. Allowing everyone else to see that feedback and all those defects is another, much more uncomfortable step for software development companies like HWD MediaShare. However, we are happy to providing a public forum where people can openly criticize and contribute to the design and implementation of the software. This is not necessarily because we are confident there are no defects, it is because we understand openness is important. If the project administrators do not provide mechanisms for people to communicate openly amongst themselves there can be no community.
 
 ### Transparency
 

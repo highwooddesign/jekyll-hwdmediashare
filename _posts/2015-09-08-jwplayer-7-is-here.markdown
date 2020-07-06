@@ -2,7 +2,7 @@
 layout: post
 title:  "JWPlayer 7 is here! No watermark, and custom branding"
 date:   2016-01-15 20:08:44 +0100
-categories: Docs jekyll update
+categories: Blog
 image: /assets/images/blog/jwplayer7.png
 excerpt_separator: <!--more-->
 ---
@@ -11,3 +11,5 @@ JW Player 7 has been released, and our latest release now includes support for t
 The JW Player is the most-used and fastest loading video player on the web. The new version is their fastest, lightest and smartest player yet. It boasts some impressive features such as MPEG-DASH support, a CSS skinning model for easy customisation and full IMA 3.0 support for HTML5.
 
 For a complete overview of the new version and more details about these features see the JW Player website.
+
+

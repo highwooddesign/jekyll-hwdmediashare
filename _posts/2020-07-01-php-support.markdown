@@ -2,7 +2,7 @@
 layout: post
 title:  "PHP 7 Support"
 date:   2016-04-14 20:08:44 +0100
-categories: Docs jekyll update
+categories: Blog
 image: /assets/images/blog/php7.png
 excerpt_separator: <!--more-->
 ---

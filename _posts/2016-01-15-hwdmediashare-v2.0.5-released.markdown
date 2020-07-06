@@ -2,7 +2,7 @@
 layout: post
 title:  "HWDMediaShare v2.0.5 Released"
 date:   2016-01-15 20:08:44 +0100
-categories: Docs jekyll update
+categories: Blog
 image: /assets/images/blog/new-release-2-0-5.png
 excerpt_separator: <!--more-->
 ---

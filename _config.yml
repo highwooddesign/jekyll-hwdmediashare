@@ -29,6 +29,12 @@ github_username:  highwooddesign
 facebook_username:  hwdmediashare
 youtube_username:  hwdmediashare
 
+collections:
+  reviews:
+    output: true
+  docs:
+    output: true    
+
 # Build settings
 theme: minima
 plugins:

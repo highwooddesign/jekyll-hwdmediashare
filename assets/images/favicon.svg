@@ -9,10 +9,10 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
-   sodipodi:docname="logo-2.svg"
-   viewBox="0 0 61 55"
-   height="55"
-   width="61"
+   sodipodi:docname="favicon.svg"
+   viewBox="0 0 50.000001 49.999999"
+   height="50"
+   width="50"
    id="svg10"
    version="1.1">
   <metadata
@@ -53,16 +53,16 @@
      inkscape:guide-bbox="true"
      showguides="true"
      inkscape:current-layer="layer2"
-     inkscape:window-maximized="1"
-     inkscape:window-y="-8"
-     inkscape:window-x="-8"
-     inkscape:cy="22.038564"
-     inkscape:cx="34.769093"
+     inkscape:window-maximized="0"
+     inkscape:window-y="35"
+     inkscape:window-x="123"
+     inkscape:cy="25.607977"
+     inkscape:cx="26.064132"
      inkscape:zoom="11.313709"
      showgrid="false"
      id="namedview12"
-     inkscape:window-height="1017"
-     inkscape:window-width="1920"
+     inkscape:window-height="1040"
+     inkscape:window-width="1397"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.75686275"
      guidetolerance="10"
@@ -75,42 +75,50 @@
     <sodipodi:guide
        id="guide253"
        orientation="1,0"
-       position="324.62814,95.313883" />
+       position="315.47563,134.33561" />
     <sodipodi:guide
        id="guide255"
        orientation="0,-1"
-       position="307.05448,54.965511" />
+       position="297.90197,93.98724" />
     <sodipodi:guide
        id="guide257"
        orientation="0,-1"
-       position="309.1991,-71.177477" />
+       position="300.04659,-32.155746" />
     <sodipodi:guide
        id="guide259"
        orientation="1,0"
-       position="304.90985,4.6642925" />
-    <sodipodi:guide
-       id="guide261"
-       orientation="0,-1"
-       position="333.72701,-7.5309998" />
+       position="295.75734,43.686023" />
     <sodipodi:guide
        id="guide263"
        orientation="0,-1"
-       position="48.334625,-70.202647" />
+       position="39.182122,-31.180916" />
     <sodipodi:guide
        id="guide265"
        orientation="1,0"
-       position="369.57107,87.593623" />
+       position="360.41856,126.61535" />
     <sodipodi:guide
        id="guide267"
        orientation="1,0"
-       position="414.51401,82.630603" />
+       position="405.3615,121.65233" />
     <sodipodi:guide
-       position="22.264676,6.3347941"
+       id="guide879"
        orientation="1,0"
-       id="guide1809" />
+       position="12.625,29.75" />
+    <sodipodi:guide
+       id="guide881"
+       orientation="0,-1"
+       position="36.749999,24.937501" />
+    <sodipodi:guide
+       id="guide883"
+       orientation="1,0"
+       position="39.999999,29.75" />
+    <sodipodi:guide
+       id="guide885"
+       orientation="1,0"
+       position="26.249999,27.5625" />
   </sodipodi:namedview>
   <g
-     transform="translate(-25.265034,-16.015784)"
+     transform="translate(-34.417536,-20.346197)"
      style="display:none"
      id="g18"
      inkscape:label="Image"
@@ -123,83 +131,71 @@
        width="458.56" />
   </g>
   <g
-     transform="translate(-25.265034,-16.015784)"
+     transform="translate(-34.417536,-20.346197)"
+     style="display:none;opacity:0.998"
+     inkscape:label="Text"
+     id="layer1"
+     inkscape:groupmode="layer">
+    <circle
+       r="35.670254"
+       cy="51.720528"
+       cx="61.185287"
+       id="path856"
+       style="fill:#83ca9c;fill-opacity:1" />
+  </g>
+  <g
+     transform="translate(-34.417536,-20.346197)"
      style="display:inline"
      inkscape:label="Logo Lines"
      id="layer3"
      inkscape:groupmode="layer" />
   <g
-     transform="translate(-25.265034,-16.015784)"
+     transform="translate(-34.417536,-20.346197)"
      style="display:inline"
      inkscape:label="Logo Circles"
      id="layer2"
      inkscape:groupmode="layer">
     <ellipse
        style="display:inline;fill:#00a99d;fill-opacity:1;stroke-width:0.4252"
-       cy="21.952194"
-       cx="53.437943"
+       cy="26.48534"
+       cx="47.175125"
        id="path40"
        rx="5.8825893"
        ry="5.8891435" />
     <ellipse
        id="path40-0"
-       cx="53.410263"
-       cy="43.365238"
+       cx="47.084946"
+       cy="45.210884"
        style="display:inline;fill:#79ccc7;fill-opacity:1;stroke-width:0.4252"
        rx="5.8825893"
        ry="5.8891435" />
     <ellipse
        id="path40-1"
-       cx="67.208275"
-       cy="33.324547"
+       cx="60.632961"
+       cy="35.982693"
        style="display:inline;fill:#ffc214;fill-opacity:1;stroke-width:0.4252"
        rx="5.8825893"
        ry="5.8891435" />
     <ellipse
        id="path40-5"
-       cx="80.377846"
-       cy="43.331871"
+       cx="73.990036"
+       cy="45.552517"
        style="display:inline;fill:#b82832;fill-opacity:1;stroke-width:0.4252"
        rx="5.8825893"
        ry="5.8891435" />
     <ellipse
        id="path40-9"
-       cx="66.89045"
-       cy="54.927326"
+       cx="60.752636"
+       cy="54.897972"
        style="display:inline;fill:#eb6224;fill-opacity:1;stroke-width:0.4252"
        rx="5.8825893"
        ry="5.8891435" />
     <ellipse
        id="path40-4"
-       cx="53.470169"
-       cy="65.018517"
+       cx="47.144852"
+       cy="64.312386"
        style="display:inline;fill:#83ca9c;fill-opacity:1;stroke-width:0.4252"
        rx="5.8825893"
        ry="5.8891435" />
-  </g>
-  <g
-     transform="translate(-25.265034,-16.015784)"
-     style="display:inline;opacity:0.998"
-     inkscape:label="Text"
-     id="layer1"
-     inkscape:groupmode="layer">
-    <g
-       aria-label="HWD"
-       transform="matrix(0,-0.43518853,0.43470422,0,8.8210314,76.129434)"
-       id="text214"
-       style="font-style:normal;font-weight:normal;font-size:50.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect216);fill:#4d4d4d;fill-opacity:1;stroke:none">
-      <path
-         d="m 15.188565,74.054716 h 9.069339 V 59.86804 h 12.261342 v 14.186676 h 9.069339 V 46.542698 c 0,-0.709333 0.405333,-1.114667 1.114667,-1.114667 h 2.178668 v -7.600005 h -8.664006 c -2.584001,0 -3.698668,1.114668 -3.698668,3.698669 V 52.318702 H 24.257904 V 41.526695 c 0,-2.584001 -1.114667,-3.698669 -3.698669,-3.698669 H 11.89523 v 7.600005 h 2.178668 c 0.709334,0 1.114667,0.405334 1.114667,1.114667 z"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:50.6667px;font-family:Museo;-inkscape-font-specification:'Museo Heavy';fill:#4d4d4d;fill-opacity:1"
-         id="path1207" />
-      <path
-         d="m 60.593846,74.054716 h 10.386673 l 4.560003,-16.872011 c 0.658667,-2.330668 0.709334,-3.850669 0.709334,-3.850669 h 0.101333 c 0,0 0.05067,1.520001 0.709334,3.850669 l 4.560003,16.872011 H 92.007199 L 98.89787,46.542698 c 0.202667,-0.861334 0.608,-1.114667 1.41867,-1.114667 h 1.26666 v -7.600005 h -6.485333 c -2.533335,0 -4.053336,0.709334 -4.509336,2.938669 L 86.585862,59.71604 c -0.456,2.229335 -0.456,3.800002 -0.456,3.800002 h -0.101334 c 0,0 -0.05067,-1.570667 -0.608,-3.800002 L 79.948524,37.878693 H 72.703187 L 67.180516,59.71604 c -0.557333,2.229335 -0.608,3.800002 -0.608,3.800002 h -0.101333 c 0,0 0,-1.570667 -0.456001,-3.800002 L 62.012513,40.766695 c -0.456,-2.229335 -2.026668,-2.938669 -4.509336,-2.938669 H 51.01784 v 7.600005 h 1.266667 c 0.810667,0 1.216001,0.253333 1.418668,1.114667 z"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:50.6667px;font-family:Museo;-inkscape-font-specification:'Museo Heavy';fill:#4d4d4d;fill-opacity:1"
-         id="path1209" />
-      <path
-         d="m 107.02195,70.356047 c 0,2.584001 1.11467,3.698669 3.69867,3.698669 h 7.90401 c 11.40001,0 18.69601,-6.789338 18.69601,-18.189345 0,-11.400007 -7.296,-18.037345 -18.69601,-18.037345 h -14.89601 v 7.600005 h 3.29333 z m 9.06934,-5.016004 V 45.428031 h 2.17867 c 5.82667,0 9.62667,3.546669 9.62667,10.43734 0,6.941338 -3.648,10.58934 -9.62667,10.58934 h -1.064 c -0.70933,0 -1.11467,-0.405334 -1.11467,-1.114668 z"
-         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:50.6667px;font-family:Museo;-inkscape-font-specification:'Museo Heavy';fill:#4d4d4d;fill-opacity:1"
-         id="path1211" />
-    </g>
   </g>
 </svg>
