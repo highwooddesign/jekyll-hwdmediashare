@@ -12,6 +12,8 @@
 
     <div class="docs-wrapper">
 	    <div id="docs-sidebar" class="docs-sidebar">
+         <a href="javascript:void(0)" id="docs-sidebar-close" onclick="closeNav()"><i class="lni lni-cross-circle"></i></a>
+
 		    <nav id="docs-nav" class="docs-nav navbar">
 			    <ul class="section-items list-unstyled nav flex-column pb-3">
                     {% assign docs = site.docs | where: "category", "Getting Started" %}
@@ -29,8 +31,8 @@
 
 		    </nav><!--//docs-nav-->
 	    </div><!--//docs-sidebar-->
-	    <div class="docs-content">
-
+	    <div id="docs-content" class="docs-content">
+         <a href="javascript:void(0)" id="docs-sidebar-open" class="d-none" onclick="openNav()"><i class="lni lni-chevron-right-circle"></i></a>
             <section id="article" class="article-area pt-120">
                 <div class="container">
                    <div class="row">

@@ -384,3 +384,19 @@ $(function () {
 
 
 });
+
+
+function openNav() {
+    document.getElementById("docs-sidebar").style.width = "300px";
+    document.getElementById("docs-content").style.marginLeft = "300px";
+    document.getElementById("docs-sidebar-open").classList.add("d-none");
+    document.getElementById("docs-sidebar-close").classList.remove("d-none");
+  }
+  
+  function closeNav() {
+    document.getElementById("docs-sidebar").style.width = "0";
+    document.getElementById("docs-content").style.marginLeft= "0";
+    document.getElementById("docs-sidebar-open").classList.remove("d-none");
+    document.getElementById("docs-sidebar-close").classList.add("d-none");
+
+  }
