@@ -4,7 +4,6 @@ title: Our Responsibility
 topic: About
 permalink: /our-responsibility/
 ---
-
 It is our responsibility to provide open, transparent and legal media sharing software. We are committed to this objective.
 
 ### Openness 

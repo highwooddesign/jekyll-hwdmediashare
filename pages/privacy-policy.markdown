@@ -4,7 +4,6 @@ title: Privacy Policy
 topic: Legal
 permalink: /privacy-policy/
 ---
-
 At HWD MediaShare, accessible from https://hwdmediashare.co.uk, one of our main priorities is the privacy of our visitors. This Privacy Policy document contains types of information that is collected and recorded by HWD MediaShare and how we use it.
 
 If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.

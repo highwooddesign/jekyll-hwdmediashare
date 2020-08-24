@@ -4,7 +4,6 @@ title: VAT Rates
 topic: Legal
 permalink: /vat-rates/
 ---
-
 VAT stands for value added tax, which is charged on goods and services sold by Highwood Design Limited within the European Union (EU). In accordance with the laws governing members of the European Union, Highwood Design Limited is obliged to charge VAT on all orders delivered to destinations in member countries of the EU.
 
 On the 4th January 2011, the UK government increased the UK standard rate of VAT rate from 17.5% to 20%. For more information, visit the [HM Revenue & Customs](http://www.hmrc.gov.uk/vat/forms-rates/rates/rate-increase.htm "VAT Increase") website. Please be aware that from 4th January 2011 this change is now reflected in all new invoices raised.

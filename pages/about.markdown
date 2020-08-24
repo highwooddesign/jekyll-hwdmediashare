@@ -4,7 +4,6 @@ title: The Project
 topic: About
 permalink: /about/
 ---
-
 The HWD MediaShare project was started originally by [Dave Horsfall](https://dave.horsfall.dev/) in 2006, just after the fork from [Mambo](http://mambo-foundation.org/). Due to the popularity of the media sharing software Dave has been able to work full time on the code since then. The company [Highwood Design Limited](http://highwooddesign.co.uk/) was incorporated in 2009 and took over ownership of the project.
 
 The project could have been considered experimental. The expansion of the code base was swift. Lots of features were added. Some worked, some didn't. During this time [marpada](https://github.com/marpada) started work for the project. Marpada is an excellent systems administrator, with many years experience in a wide range of platforms. His passion for the Linux operating system and GNU free software has injected quality ideas and problem solving relating to the media conversion techniques.

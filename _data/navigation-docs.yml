@@ -1,0 +1,30 @@
+items:
+  - title: Getting Started
+    subfolderitems:
+      - page: Installation
+        url: /thing1.html
+      - page: Requirements
+        url: /thing2.html
+      - page: Upgrades
+        url: /thing3.html
+      - page: Migrations
+        url: /thing3.html
+  - title: Addons
+    subfolderitems:
+      - page: Modules
+        url: /piece1.html
+      - page: JomSocial
+        url: /piece2.html
+      - page: Youtube
+        url: /piece3.html
+      - page: Languages
+        url: /piece3.html
+      - page: Plugins
+        url: /piece3.html
+  - title: Frameworks
+    subfolderitems:
+      - page: Commenting Systems
+        url: /piece1.html
+      - page: Media Hosting Platforms
+        url: /piece2.html
+      - page: Media Players

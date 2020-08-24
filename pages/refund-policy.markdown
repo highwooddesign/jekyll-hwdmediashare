@@ -4,7 +4,6 @@ title: Refund Policy
 topic: Legal
 permalink: /refund-policy/
 ---
-
 We're committed to selling high-quality products we hope you'll enjoy using but we also know that, for one reason or another, there may be a time when you need to request a refund for something you've bought.
 
 ### Refunds for new subscribers

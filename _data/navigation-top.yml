@@ -1,0 +1,11 @@
+items:
+- title: Home
+  url: /
+- title: Features
+  url: /#features
+- title: Demo
+  url: https://demo.hwdmediashare.co.uk/
+- title: Docs
+  url: /docs/getting-started/what-is-hwdmediashare/
+- title: Pricing
+  url: /pricing/

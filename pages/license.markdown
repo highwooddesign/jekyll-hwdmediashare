@@ -4,7 +4,6 @@ title: License
 topic: Legal
 permalink: /license/
 ---
-
 The PHP source code is distributed under the [GNU General Public License](https://www.gnu.org/licenses/gpl-3.0.en.html).
 
 ### GNU GENERAL PUBLIC LICENSE

@@ -2,13 +2,6 @@ $(function () {
 
     "use strict";
 
-    //===== Prealoder
-
-    $(window).on('load', function (event) {
-        $('.preloader').delay(500).fadeOut(500);
-    });
-
-
     //===== Sticky
 
     $(window).on('scroll', function (event) {
@@ -16,10 +9,12 @@ $(function () {
         if (scroll < 20) {
             $(".navbar-area").removeClass("sticky");
             $("#docs-sidebar").removeClass("scrolling");
+            $("#docs-sidebar-open").removeClass("scrolling");
             $(".navbar .navbar-brand img").attr("src", "/assets/images/logo.svg");
         } else {
             $(".navbar-area").addClass("sticky");
             $("#docs-sidebar").addClass("scrolling");
+            $("#docs-sidebar-open").addClass("scrolling");
             $(".navbar .navbar-brand img").attr("src", "/assets/images/logo-2.svg");
         }
     });
@@ -388,15 +383,14 @@ $(function () {
 
 function openNav() {
     document.getElementById("docs-sidebar").style.width = "300px";
-    document.getElementById("docs-content").style.marginLeft = "300px";
+    document.getElementById("docs-content").classList.add('sidebar-open');
     document.getElementById("docs-sidebar-open").classList.add("d-none");
     document.getElementById("docs-sidebar-close").classList.remove("d-none");
   }
   
   function closeNav() {
     document.getElementById("docs-sidebar").style.width = "0";
-    document.getElementById("docs-content").style.marginLeft= "0";
+    document.getElementById("docs-content").classList.remove('sidebar-open');
     document.getElementById("docs-sidebar-open").classList.remove("d-none");
     document.getElementById("docs-sidebar-close").classList.add("d-none");
-
   }

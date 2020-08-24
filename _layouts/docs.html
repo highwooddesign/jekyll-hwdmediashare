@@ -12,27 +12,40 @@
 
     <div class="docs-wrapper">
 	    <div id="docs-sidebar" class="docs-sidebar">
-         <a href="javascript:void(0)" id="docs-sidebar-close" onclick="closeNav()"><i class="lni lni-cross-circle"></i></a>
 
 		    <nav id="docs-nav" class="docs-nav navbar">
 			    <ul class="section-items list-unstyled nav flex-column pb-3">
-                    {% assign docs = site.docs | where: "category", "Getting Started" %}
-                    <li class="nav-item section-title"><h5>Getting Started</h5></li>
-                    {% for doc in docs %}
-                    <li class="nav-item"><a class="nav-link scrollto" href="{{ doc.url }}">{{ doc.title }}</a></li>               
-                    {% endfor %}
+               <li class="nav-item section-title">
+                  <form id="search-form" action="" style="width:100%;">
+                     <div class="input-group mb-3">
+                        <div class="input-group-prepend">
+                          <span class="input-group-text" id="basic-addon1"><i class="fa fa-search" aria-hidden="true"></i></span>
+                        </div>
+                        <input type="text" class="form-control" id="search" name="search" placeholder="Search" autocomplete="off">
+                        <div class="input-group-append">
+                           <button class="btn btn-secondary" type="button"><i class="fa fa-times" aria-hidden="true"></i></button>
+                         </div>
+                      </div>                   
+                     <ul class="list list--results" id="list">
+               
+                     </ul>
+                   </form>
+               </li>               
+               
+               {% for item in site.data.navigation-docs.items %}
+                  <li class="nav-item section-title"><h5>{{ item.title }}</h5></li>
+                  {% for entry in item.subfolderitems %}
+                     <li class="nav-item"><a class="nav-link scrollto" href="{{ entry.url }}">{{ entry.page }}</a></li>     
+                  {% endfor %}
+               {% endfor %}
 
-                    {% assign docs = site.docs | where: "category", "Installation" %}
-                    <li class="nav-item section-title"><h5>Installation</h5></li>
-                    {% for doc in docs %}
-                    <li class="nav-item"><a class="nav-link scrollto" href="{{ doc.url }}">{{ doc.title }}</a></li>               
-                    {% endfor %}
 			    </ul>
 
 		    </nav><!--//docs-nav-->
 	    </div><!--//docs-sidebar-->
-	    <div id="docs-content" class="docs-content">
-         <a href="javascript:void(0)" id="docs-sidebar-open" class="d-none" onclick="openNav()"><i class="lni lni-chevron-right-circle"></i></a>
+	    <div id="docs-content" class="docs-content sidebar-open">
+         <a href="javascript:void(0)" id="docs-sidebar-close" onclick="closeNav()"><i class="lni lni-angle-double-left"></i></a>
+         <a href="javascript:void(0)" id="docs-sidebar-open" class="d-none" onclick="openNav()"><i class="lni lni-angle-double-right"></i></a>
             <section id="article" class="article-area pt-120">
                 <div class="container">
                    <div class="row">
@@ -93,6 +106,17 @@
     <!--====== Main js ======-->
     <script src="/assets/js/main.js"></script>
         
+    <script src="/assets/search/fetch.js"></script>
+    <script src="/assets/search/search.js"></script>    
+    <script type="text/javascript">
+      const search = new jekyllSearch(
+        '{{site.url}}/assets/search/search.json',
+        '#search',
+        '#list',
+        '{{site.url}}'
+      );
+      search.init();
+    </script>
   </body>
 
 </html>
