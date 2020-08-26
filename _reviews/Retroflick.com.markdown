@@ -1,0 +1,5 @@
+---
+title:  "AMAZING component with excellent support"
+author: "Retroflick.com"
+---
+I tried the component that calls itself "the first video plugin for Joomla" and got the impression that they had abandoned the support in favor of developing a pretty interface that I could barely get working. So I searched and found this plugin, and wow, it's pretty amazing. The developers call it an "alpha" product, but I've had no troubles with it at all, other than minor issues that are resolved quickly. The developers really know their stuff, and their support forum has what I consider an unprecedented level of support for such an inexpensive pro version. "That other" video component used to break the themes I was trying. This one seems to fit in a lot better. I can't say enough good things about this component and I highly recommend it.

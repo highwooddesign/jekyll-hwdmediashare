@@ -1,0 +1,5 @@
+---
+title:  "The best by far!"
+author: "baldilocks"
+---
+Five stars doesn't really do it justice. Awesome product with excellent support. This is a very powerful bit of kit and as such is not always entirely straightforeward to install. As the makers point out, you will need some IT skills, or a willingness to learn to get this up and running. If chmod or permissions are greek to you then maybe get someone else to do the install (or have a good read of the docs, where they explain everything). However their excellent tech support and clear documentation make the whole process much easier and they do explain from the outset, exactly and clearly what you will need to get this up and running. Even if you are feeling a bit shaky on the IT side the clear and detailed documentation and lively forums are a great opportunity to learn. Also the end result is well worth the effort. And all for only twenty quid! (I've seen more expensive "free" software)

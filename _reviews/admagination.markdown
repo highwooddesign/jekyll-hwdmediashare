@@ -1,0 +1,5 @@
+---
+title:  "Simply the best!"
+author: "admagination"
+---
+I needed to do a fast Broadcasting awards entry site. So at the heart of the awards engine, I needed a robust all inclusive video handler / converter. I tried them all. Ive been a Joomla designer for years, and there are the ones which work and the ones you mess with. This one is insanely powerful... and up and running for free. A modest fee gets you a host of extra stuff, but nothing that is needed to complete the full on function of the component. It also gives you great tech support. As long as you can deal with the time zone delay, you can depend that a ticket submitted in the evening (US) will be answered by the next morning, and answered well. The server-side conversion has not hiccupped once, and it handles 3000-4000 videos in a few days. Fantastic!

@@ -1,0 +1,5 @@
+---
+title:  "I'm so excited, i just can't hide it..."
+author: "wizgod"
+---
+I am so glad I went looking for a video gallery in the JED and finding hwdVideoShare! I don't know where to start about how good this is even at it's current stage of development. Like many I was using Seyret and it worked well for me but hwdVideoShare offers a lot more features and modules and as importantly it's 1.5 Native. I really hated having to run Seyret in Legacy mode. I didn't bother to try the free version, I simply bought the pro version based on the reviews and what I saw in the demo. I really wanted/needed to have all of the modules and plugins. I hated the green/gray color of the default template and having the pro version I was able to use the Dark template. Changing the template a little was very easy and I liked the way the entire configuration is set up in the admin cp. I really feel like my site is at a point where things are flowing smoothly; now if only I can get others to register and upload videos LOL. I know there are a lot of feature requrests and I'm really looking forward to what they add next.

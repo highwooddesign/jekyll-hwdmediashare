@@ -1,0 +1,5 @@
+---
+title:  "I've tried them ALL!!!"
+author: "Pepperkayn"
+---
+I spent a month purchasing and downloading plugis, components and modules and ran them on a test database to be sure that everything worked as it should (and they were what I needed) before I committed to building my site. So I feel compelled to write a review to help others in their decisions. Of all the video upload extensions available, this is simply the best one. On the face of it, the others may look nice but when you get into them, they are nothing but grief - conflicts with IONCUBE, JQUERY and so on. But this ran smoothly and was compatible with all my other site extensions - there are over 50! The ability to customise is easy and the incorporation of CB (via the CB HwdVideoShare Completely AJAX plugin) and jComments was simple with excellent 'hassle-free' results. Don't bother looking any further as this component is everything you need for video upload, sharing and creating a community like YouTube.

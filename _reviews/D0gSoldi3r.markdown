@@ -1,0 +1,5 @@
+---
+title:  "Great component great support"
+author: "D0gSoldi3r"
+---
+I don't like to put to much importance and emphasis on Support because it must be hard to code any component, but when something catastrophic happens to you're site and you need help I can assure you at HWD your guaranteed to get it. Firstly if you're looking for a dynamic video gallery to trial then check out this place, they have an excellent free version you can use with not much limits on the free version but for a small amount of cash you can have the full version and excellent support. PROS: It can do more than some more bloated highly priced components found in the extension list here. Excellent support. The new version comes with extra goodys free of charge like an image gallery etc; CONS: It's still in early development, but could be taken another way showing you what they can do in short term.

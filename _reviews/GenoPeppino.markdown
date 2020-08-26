@@ -1,0 +1,5 @@
+---
+title:  "Worth Paying For..."
+author: "GenoPeppino"
+---
+You can get by without buying the support subscription, and probably be just fine. I mainly bought the subscription as a way of donating. This is a great project, and needs to stay alive. But the support and nightly builds have come in handy. And really, $78 for a year and unlimited domains... not too shabby. I'm convinced Dave is a genius. I'm also convinced he never sleeps. This is getting worked on constantly, that's one reason the nightly builds are important. It offers integration with a number of other products, and a number of products offer integration with HWD, making the sustained existence of this project important. Support requires patience, but they never failed to answer my concerns, and they even did some of the work for me once when I wasn't able to fix a problem. They added a video player with scroll bar which was a must... but the look needs to be improved. An all around great extension(s).

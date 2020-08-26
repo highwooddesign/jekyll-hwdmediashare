@@ -1,0 +1,5 @@
+---
+title:  "Great extension, documentation and support"
+author: "boegmunken"
+---
+This extension does exactly what it is supposed to do, and it works like a charm. The documentation and support is flawless. People who rate this low because it's "not free" are simply wrong, and should explain themselves. The extension is completely free. I'd like to point out that I'm running this on a virtual Windows 2008 server, and it works fine. I encountered a few bugs in the beginning, but the support team was really helpful and squashed them for me. Note that running a video community is more difficult than running a regular Joomla site for obvious reasons. However, hwdVideoShare is easy to use once installed. I know of no other real alternatives when it comes to running a video community on Jooomla. This extension is all you need, really. Great extension, documentation and support.

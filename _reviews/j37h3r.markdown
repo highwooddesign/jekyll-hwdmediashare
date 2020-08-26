@@ -1,0 +1,5 @@
+---
+title:  "Perfect Component for Video Sharing"
+author: "j37h3r"
+---
+Everything works with this component. They also have some great support from the developers. Though I was able to compile FFMPEG on my server myself, I respect the services they offer in tandem to using this component and highly recommend them if you have any problems with converting videos. Do yourself a favor and spend the extra bucks to get the pro version. Allowing the CB plugins integration will allow for a very rich social networking site. Very excited to follow the roadmap of this project.
