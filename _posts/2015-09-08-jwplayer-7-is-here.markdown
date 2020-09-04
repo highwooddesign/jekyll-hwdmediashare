@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "JWPlayer 7 is here! No watermark, and custom branding"
-date:   2016-01-15 20:08:44 +0100
+title: JWPlayer 7 is here! No watermark, and custom branding
+date: 2016-01-15 20:08:44 +0100
 categories: Blog
 image: /assets/images/blog/jwplayer7.png
 excerpt_separator: <!--more-->

@@ -1,6 +1,6 @@
 ---
-layout:  docs
-title:  "Installing the HWD MediaShare component"
+layout: docs
+title: Installing the HWD MediaShare component
 category: Installation
 ---
 The HWDMediaShare Installer Package for Joomla is the main gallery package that includes the core extensions. Installing HWDMediaShare is no different than installing any other Joomla extension on your site.

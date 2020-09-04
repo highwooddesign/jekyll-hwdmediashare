@@ -18,13 +18,13 @@ There are many articles offering detailed Joomla performance tests for the new P
 
 The total load time (afterRender event) was 936.05ms and consumed 15.87MB of memory.
 
-![](/images/site/blog/767/profile-php6.png)
+![](/assets/images/blog/content/profile-php6.png)
 
 ### PHP7
 
 The total load time (afterRender event) was 505.03ms and consumed 11.65MB of memory.
 
-![](/images/site/blog/767/profile-php7.png)
+![](/assets/images/blog/content/profile-php7.png)
 
 ## Performance Test Comparisons
 
@@ -36,15 +36,15 @@ The total load time (afterRender event) was 505.03ms and consumed 11.65MB of mem
 
 <td> </td>
 
-<td>**PHP 5.6.16**</td>
+<td>PHP 5.6.16</td>
 
-<td>**PHP 7.0.0**</td>
+<td>PHP 7.0.0</td>
 
 </tr>
 
 <tr>
 
-<td>****Load Time****</td>
+<td>Load Time</td>
 
 <td>936.05ms</td>
 
@@ -54,7 +54,7 @@ The total load time (afterRender event) was 505.03ms and consumed 11.65MB of mem
 
 <tr>
 
-<td>**Memory Usage**</td>
+<td>Memory Usage</td>
 
 <td>15.87MB</td>
 
@@ -66,14 +66,4 @@ The total load time (afterRender event) was 505.03ms and consumed 11.65MB of mem
 
 </table>
 
-These tests demonstrate that making the switch to PHP7 **<span class="output-n4">reduces the load time by 46% and saves</span> **<span class="output-n4">**27% of memory**.</span>
-
-</div>
-
-<div id="disqus_thread"><iframe id="dsq-app7900" name="dsq-app7900" allowtransparency="true" frameborder="0" scrolling="no" tabindex="0" title="Disqus" width="100%" src="https://disqus.com/embed/comments/?base=default&amp;f=hwdmediashare&amp;t_i=c975d60935_com_content_article_767&amp;t_u=https%3A%2F%2Fhwdmediashare.co.uk%2Fblog%2F767-php7-support&amp;t_d=PHP7%20Support&amp;t_t=PHP7%20Support&amp;s_o=default&amp;l=en#version=b540e7baf9f0093a713fc183a7078c20" horizontalscrolling="no" verticalscrolling="no" style="height: 375px !important;"></iframe></div>
-
-<script type="text/javascript">var disqus_shortname = 'hwdmediashare'; var disqus_url = 'https://hwdmediashare.co.uk/blog/767-php7-support'; var disqus_identifier = 'c975d60935_com_content_article_767'; var disqus_config = function(){ this.language = 'en'; }; (function() { var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true; dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js'; (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq); })();</script>
-
-<noscript>Please enable JavaScript to view the [comments](//disqus.com/?ref_noscript)</noscript>
-
-</div>
+These tests demonstrate that making the switch to PHP7 **reduces the load time by 46% and saves 27% of memory**.

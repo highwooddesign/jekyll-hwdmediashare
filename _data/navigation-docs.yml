@@ -1,9 +1,9 @@
 items:
   - title: Getting Started
     subfolderitems:
-      - page: Installation
-        url: /thing1.html
       - page: Requirements
+        url: /docs/getting-started/requirements/
+      - page: Installation
         url: /thing2.html
       - page: Upgrades
         url: /thing3.html

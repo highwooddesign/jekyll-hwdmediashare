@@ -3,6 +3,7 @@ class jekyllSearch {
     this.dataSource = dataSource
     this.searchField = document.querySelector(searchField)
     this.resultsList = document.querySelector(resultsList)
+    this.clearButton = document.getElementById('clearsearch')
     this.siteURL = siteURL
 
     this.displayResults = this.displayResults.bind(this)
@@ -36,8 +37,10 @@ class jekyllSearch {
           </div>
         </li>`
     }).join('')
-    if ((results.length == 0) || (this.searchField.value == '')) {
-      this.resultsList.innerHTML = `<p>Sorry, nothing was found</p>`
+    if (this.searchField.value == '') {
+      this.resultsList.innerHTML = ''
+    } else if ((results.length == 0)) {
+      this.resultsList.innerHTML = '<p>Sorry, nothing was found</p>'
     } else {
       this.resultsList.innerHTML = html
     }
@@ -58,6 +61,11 @@ class jekyllSearch {
       if (event.keyCode == 13) {
         event.preventDefault()
       }
+    })
+    this.clearButton.addEventListener('click', event => {
+      this.searchField.value = "";
+      window.history.pushState('', '', url.href)
+      this.displayResults()
     })
   }
 }
